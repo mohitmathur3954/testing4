@@ -1,4 +1,4 @@
-def linear_search(alist, key):
+#def linear_search(alist, key):
     """Return index of key in alist. Return -1 if key not present."""
     for i in range(len(alist)):
         if alist[i] == key:
